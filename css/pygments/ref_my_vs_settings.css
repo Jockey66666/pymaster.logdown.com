@@ -19,14 +19,14 @@ green     #859900  operators, other keywords
 .code .g { color: #FFFFFF !important; } /* Generic */
 .code .k { color: #A2C4FD !important; } /* Keyword */
 .code .l { color: #FFFFFF !important; } /* Literal */
-.code .n { color: #FF8000 !important; } /* Name */
+.code .n { color: #E4FF76 !important; } /* Name */
 .code .o { color: #FFFFFF !important; } /* Operator */
 .code .x { color: #cb4b16 !important; } /* Other */
 .code .p { color: #FFFFFF !important; } /* Punctuation */
-.code .cm { color: #586e75 !important; } /* Comment.Multiline */
-.code .cp { color: #859900 !important; } /* Comment.Preproc */
-.code .c1 { color: #586e75 !important; } /* Comment.Single */
-.code .cs { color: #859900 !important; } /* Comment.Special */
+.code .cm { color: #75FFA2 !important; } /* Comment.Multiline */
+.code .cp { color: #75FFA2 !important; } /* Comment.Preproc */
+.code .c1 { color: #75FFA2 !important; } /* Comment.Single */
+.code .cs { color: #75FFA2 !important; } /* Comment.Special */
 .code .gd { color: #2aa198 !important; } /* Generic.Deleted */
 .code .ge { color: #FFFFFF; font-style: italic !important; } /* Generic.Emph */
 .code .gr { color: #dc322f !important; } /* Generic.Error */
@@ -64,13 +64,13 @@ green     #859900  operators, other keywords
 .code .w { color: #FFFFFF !important; } /* Text.Whitespace */
 .code .mf { color: #2aa198 !important; } /* Literal.Number.Float */
 .code .mh { color: #2aa198 !important; } /* Literal.Number.Hex */
-.code .mi { color: #2aa198 !important; } /* Literal.Number.Integer */
+.code .mi { color: #FFFFFF !important; } /* Literal.Number.Integer */
 .code .mo { color: #2aa198 !important; } /* Literal.Number.Oct */
 .code .sb { color: #586e75 !important; } /* Literal.String.Backtick */
 .code .sc { color: #2aa198 !important; } /* Literal.String.Char */
 .code .sd { color: #FFFFFF !important; } /* Literal.String.Doc */
 .code .s2 { color: #2aa198 !important; } /* Literal.String.Double */
-.code .se { color: #cb4b16 !important; } /* Literal.String.Escape */
+.code .se { color: #00FF00 !important; } /* Literal.String.Escape */
 .code .sh { color: #FFFFFF !important; } /* Literal.String.Heredoc */
 .code .si { color: #2aa198 !important; } /* Literal.String.Interpol */
 .code .sx { color: #2aa198 !important; } /* Literal.String.Other */
