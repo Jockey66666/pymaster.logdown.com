@@ -67,7 +67,7 @@ green     #859900  operators, other keywords
 .code .mi { color: #FFFFFF !important; } /* Literal.Number.Integer */
 .code .mo { color: #2aa198 !important; } /* Literal.Number.Oct */
 .code .sb { color: #586e75 !important; } /* Literal.String.Backtick */
-.code .sc { color: #2aa198 !important; } /* Literal.String.Char */
+.code .sc { color: #00FF00 !important; } /* Literal.String.Char */
 .code .sd { color: #FFFFFF !important; } /* Literal.String.Doc */
 .code .s2 { color: #2aa198 !important; } /* Literal.String.Double */
 .code .se { color: #00FF00 !important; } /* Literal.String.Escape */
