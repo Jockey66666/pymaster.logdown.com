@@ -3,7 +3,7 @@ Vincent Lee
 
 SOLARIZED HEX      ROLE
 --------- -------- ------------------------------------------
-base03    #000000  background
+base03    #282424  background
 base01    #586e75  comments / secondary content
 base1     #FFFFFF  body text / default code / primary content
 orange    #cb4b16  constants
@@ -12,15 +12,15 @@ blue      #268bd2  reserved keywords
 cyan      #2aa198  strings, numbers
 green     #859900  operators, other keywords
 */
- figure.code pre { background-color: #000000 !important; }
-.code { background-color: #000000; color: #FFFFFF !important; }
-.code .c { color: #586e75 !important; } /* Comment */
-.code .err { color: #FFFFFF !important; } /* Error */
+ figure.code pre { background-color: #282424 !important; }
+.code { background-color: #282424; color: #FFFFFF !important; }
+.code .c { color: #75FFA2 !important; } /* Comment */
+.code .err { color: #FF0000 !important; } /* Error */
 .code .g { color: #FFFFFF !important; } /* Generic */
-.code .k { color: #859900 !important; } /* Keyword */
+.code .k { color: #A2C4FD !important; } /* Keyword */
 .code .l { color: #FFFFFF !important; } /* Literal */
-.code .n { color: #FFFFFF !important; } /* Name */
-.code .o { color: #859900 !important; } /* Operator */
+.code .n { color: #FF8000 !important; } /* Name */
+.code .o { color: #FFFFFF !important; } /* Operator */
 .code .x { color: #cb4b16 !important; } /* Other */
 .code .p { color: #FFFFFF !important; } /* Punctuation */
 .code .cm { color: #586e75 !important; } /* Comment.Multiline */
@@ -45,9 +45,9 @@ green     #859900  operators, other keywords
 .code .kt { color: #dc322f !important; } /* Keyword.Type */
 .code .ld { color: #FFFFFF !important; } /* Literal.Date */
 .code .m { color: #2aa198 !important; } /* Literal.Number */
-.code .s { color: #2aa198 !important; } /* Literal.String */
+.code .s { color: #00FF00 !important; } /* Literal.String */
 .code .na { color: #FFFFFF !important; } /* Name.Attribute */
-.code .nb { color: #B58900 !important; } /* Name.Builtin */
+.code .nb { color: #FF80FF !important; } /* Name.Builtin */
 .code .nc { color: #268bd2 !important; } /* Name.Class */
 .code .no { color: #cb4b16 !important; } /* Name.Constant */
 .code .nd { color: #268bd2 !important; } /* Name.Decorator */
