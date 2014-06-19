@@ -12,7 +12,7 @@ blue      #268bd2  reserved keywords
 cyan      #2aa198  strings, numbers
 green     #859900  operators, other keywords
 */
- 
+ figure.code pre { background-color: #FFFFFF !important; }
 .code { background-color: #000000; color: #FFFFFF !important; }
 .code .c { color: #586e75 !important; } /* Comment */
 .code .err { color: #FFFFFF !important; } /* Error */
